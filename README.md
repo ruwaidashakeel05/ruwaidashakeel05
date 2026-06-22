@@ -95,7 +95,7 @@ A fully interactive Figma prototype for a campus café preorder system — desig
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ruwaida--shakeel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ruwaida-shakeel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-logicframe.me-black?style=flat&logo=vercel)](https://logicframe.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-logicframe.me-yellow?style=flat&logo=vercel)](https://logicframe.me)
 [![Email](https://img.shields.io/badge/Email-ruwaidashakeel05@gmail.com-red?style=flat&logo=gmail)](mailto:ruwaidashakeel05@gmail.com)
 
 ---
