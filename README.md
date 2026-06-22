@@ -11,8 +11,8 @@ I'm a Software Engineering student who loves building things end-to-end — from
 
 Currently exploring how AI can be used to solve real problems — from detecting tax fraud to building transport alert systems. I care about writing clean, purposeful code and designing experiences that make sense to people.
 
-- 🔭 Currently building **Raasta** — a cross-platform transport alert app (Flutter + FastAPI + Supabase)
-- 🧠 Learning more about AI integration, system design, and scalable architecture
+- 🔭 Currently exploring **AI integration** and building impactful full-stack projects
+- 🧠 Learning more about system design, scalable architecture, and real-world AI applications
 - 🎨 I design in Figma before I build — UI/UX is part of my process, not an afterthought
 - 🌱 Interning at **TechRealm** (PreserveMy.World Initiative)
 
