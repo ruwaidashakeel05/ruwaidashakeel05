@@ -55,7 +55,7 @@ A full-stack event management platform built with a **custom C++ HTTP server** �
 
 ---
 
-### 🚌 Raasta — Transport Alert App *(in progress)*
+### 🚌 Raasta — Transport Alert App
 `Flutter` `FastAPI` `Supabase` `Python`
 
 A cross-platform mobile app for real-time transport alerts.
@@ -75,21 +75,13 @@ A web-based tax fraud detection system using AI and graph-based visualizations.
 
 ---
 
-### ✈️ Airline Management System
-`C++`
+### 🍔 CampusBite — Campus Café Preorder System
+`Figma` `UI/UX Design` `Interactions` `Variants`
 
-Console-based system simulating flight scheduling, seat booking, and passenger management.
-- Applied OOP principles: inheritance, encapsulation, polymorphism
-- Custom data structures for efficient flight record and booking handling
-
----
-
-### ☕ Cafe Management System
-`HTML` `CSS` `Bootstrap` `JavaScript`
-
-A multi-page responsive café website with table booking, menu, event registration, and auth pages.
-- Cross-device compatible using Bootstrap grid + CSS media queries
-- Clean, semantic HTML5 markup throughout
+A fully interactive Figma prototype for a campus café preorder system — designed for students to skip the queue and order ahead.
+- Built with Figma interactions and component variants for a realistic, clickable prototype
+- Covers the full user flow: browse menu → customize order → preorder → confirmation
+- Designed with a student-first experience in mind — fast, intuitive, and mobile-friendly
 
 ---
 
